@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         有声听书、静听
 // @namespace    http://nil.net/
-// @version      0.1
+// @version      0.2
 // @description  优化使用体验
 // @author       You
 // @match        http://www.audio699.com/
@@ -12,6 +12,6 @@
 
 (function() {
     'use strict';
-    console.log('hello world');
+    console.log('hello new world');
     // Your code here...
 })();
