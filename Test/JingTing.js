@@ -1,16 +1,16 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         有声听书、静听
+// @namespace    http://nil.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  优化使用体验
 // @author       You
-// @match        http://*/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @match        http://www.audio699.com/
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=audio699.com
 // @grant        none
 // ==/UserScript==
 
 (function() {
     'use strict';
-
+    console.log('hello world');
     // Your code here...
 })();
