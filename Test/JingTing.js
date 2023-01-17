@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         有声听书、静听
+// @name         有声听书、静听、测试中请勿安装
 // @namespace    http://nil.net/
-// @version      0.2
-// @description  优化使用体验
+// @version      0.3
+// @description  测试中请勿安装
 // @author       You
 // @match        http://www.audio699.com/
 // @license      MIT
